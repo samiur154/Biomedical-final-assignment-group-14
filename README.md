@@ -14,10 +14,9 @@ The ideas of this game is To collect the cubes scattered across the desk and put
 
 # Biomedical Robotics Final Project
 
-| Name | email  | 
-| :--- | :---   | :--- |
+[ Name ]                   [email]   
 | donya mostaghniyazdi | s5060506@studenti.unige.it | 
-| X samiur rahman  | s50663150@studenti.unige.it 
+| X samiur rahman  | s5066315@studenti.unige.it 
 | saeed kalateh | s4982001@studenti.unige.it | 
 
 # Abstract
