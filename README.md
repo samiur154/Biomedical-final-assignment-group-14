@@ -220,7 +220,7 @@ Figure 4. Countdown during calibration. You should move for 30 seconds.
 ![BoMI_5](https://user-images.githubusercontent.com/75327840/142371433-4a5e15af-4301-4702-8ab4-746d46aa2f0e.png)
 Figure 5. Select Variational AE and, then, press Calculate BoMI Map.
 
-![Image](https://github.com/samiur154/biomedical-final-assignment-group-14)
+![IMAGE.png](https://github.com/samiur154/Biomedical-final-assignment-group-14)
 
 **Step 4: Customization**. When the Calculate BoMI Map step is done (look at the terminal), you can press the button **Customization**. A window as the one shown in Figure 6 should pop up.
 
